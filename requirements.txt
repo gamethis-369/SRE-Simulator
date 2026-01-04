@@ -1,0 +1,5 @@
+numpy
+matplotlib
+scipy
+sympy
+sqlite3  # Built-in, no install needed
